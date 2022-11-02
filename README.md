@@ -1,0 +1,1 @@
+trying out how to use tests with @SpringBootTest and TestRestTemplate
